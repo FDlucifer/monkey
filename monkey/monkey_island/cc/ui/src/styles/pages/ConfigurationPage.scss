@@ -49,6 +49,10 @@
   font-size: 1.2em;
 }
 
+.config-form .form-group .field-string > p {
+  display: none;
+}
+
 .config-field-hidden {
   display: none;
 }
